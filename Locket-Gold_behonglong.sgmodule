@@ -1,6 +1,5 @@
 [General]
-skip-proxy = 192.168.0.0/16, 10.0.0.0/8, 127.0.0.1/32, localhost
-bypass-system = true
+include = 
 update-url = https://raw.githubusercontent.com/behoanglong/locket-gold/main/Locket-Gold_behoanglong.conf
 [Script]
 # ~ Bế Hoàng Long
